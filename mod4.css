@@ -1,0 +1,21 @@
+.abc {
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 50px;
+    text-transform: capitalize;
+    font-size: 30px;
+}
+
+body {
+    background-color: rgb(132, 165, 42);
+}
+
+button {
+    background-color: chocolate;
+    text-decoration: black;
+    margin-top: 20px;
+    margin-left: 153px;
+}
+
+
+}
